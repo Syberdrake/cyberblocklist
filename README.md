@@ -6,6 +6,11 @@ blocklists, but didn't do a good job of putting things into an intelligible host
 
 To install, simply copy and past the blocklist file into your hosts file (this should work on any OS).
 
-To Be Added:
--Bluetack blocklists
--Ublock Origin blocklists
+
+TO BE ADDED:
+
+.Bluetack blocklists
+
+.Ublock Origin blocklists
+
+
